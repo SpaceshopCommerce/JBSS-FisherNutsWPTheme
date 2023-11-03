@@ -1,0 +1,125 @@
+
+
+
+/* Fonts 2 */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/wp-content/themes/Fisher/fonts2/Montserrat-Regular.woff2') format('woff2'),
+    url('/wp-content/themes/Fisher/fonts2/Montserrat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/wp-content/themes/Fisher/fonts2/Montserrat-Italic.woff2') format('woff2'),
+    url('/wp-content/themes/Fisher/fonts2/Montserrat-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/wp-content/themes/Fisher/fonts2/Montserrat-Bold.woff2') format('woff2'),
+    url('/wp-content/themes/Fisher/fonts2/Montserrat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/wp-content/themes/Fisher/fonts2/Montserrat-BoldItalic.woff2') format('woff2'),
+    url('/wp-content/themes/Fisher/fonts2/Montserrat-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Montserrat-Bold */
+/*@font-face {*/
+/*    font-family: 'Montserrat';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/Montserrat-Bold.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/Montserrat-Bold.woff') format('woff');*/
+/*    font-weight: bold;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Montserrat';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/Montserrat-Bold.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/Montserrat-Bold.woff') format('woff');*/
+/*    font-weight: 700;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+/* TODO - this is only the bold font */
+
+
+
+
+
+/* MPC Light */
+/*@font-face {*/
+/*    font-family: 'myriad-pro';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/MyriadPro-Regular.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/MyriadPro-Regular.woff') format('woff');*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'myriad-pro';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/MyriadPro-Light.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/MyriadPro-Light.woff') format('woff');*/
+/*    font-weight: 300;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+
+/* MPC  */
+/*@font-face {*/
+/*    font-family: 'myriad-pro-condensed';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/MyriadPro-BoldCondIt.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/MyriadPro-BoldCondIt.woff') format('woff');*/
+/*    font-weight: bold;*/
+/*    font-style: italic;*/
+/*    font-display: swap;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'myriad-pro-condensed';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/MyriadPro-BoldCond.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/MyriadPro-BoldCond.woff') format('woff');*/
+/*    font-weight: bold;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'myriad-pro-condensed';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/MyriadPro-BoldCond.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/MyriadPro-BoldCond.woff') format('woff');*/
+/*    font-weight: 700;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'myriad-pro-condensed';*/
+/*    src: url('/wp-content/themes/Fisher/fonts/MyriadPro-Cond.woff2') format('woff2'),*/
+/*    url('/wp-content/themes/Fisher/fonts/MyriadPro-Cond.woff') format('woff');*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
