@@ -74,7 +74,7 @@ if ( ! class_exists( 'VS_Recipe_Numbers_Shortcode' ) ) {
             if (get_field( 'make_amount' )) :
                     $output .= '<div class="recipe-detail">';
                         $output .= '<span class="detail-title">make</span>';
-                            $output .= '<p>' . getValue('make_amount', 0). '</p>';
+                            $output .= '<p data-servings>' . getValue('make_amount', 0). '</p>';
                         $output .= '<span class="detail-suffix">';
                             $output .= getValue('make_amount', 1);
                         $output .= '</span>';

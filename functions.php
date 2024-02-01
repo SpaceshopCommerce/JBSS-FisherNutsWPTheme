@@ -33,6 +33,9 @@ require_once 'template-parts/image-slide.php';
 
         wp_register_script( 'scripts', get_stylesheet_directory_uri() . '/js/scripts.js?v=' . time(), null, null, true );
         wp_enqueue_script('scripts');
+
+        wp_register_script( 'recipe_calculator', get_stylesheet_directory_uri() . '/js/recipeCalculator.js?v=' . time(), null, null, true );
+        wp_enqueue_script('recipe_calculator');
     }
 
 function year_shortcode () {
@@ -54,7 +57,5 @@ add_image_size( 'recipe-thumb', 600, 600, true ); // 600px wide and 600px high, 
 //
 //    return $test_type;
 //}
-
-
 
 ?>
